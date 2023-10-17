@@ -1,0 +1,23 @@
+{
+  "name": "jeefo-react-native-webrtc",
+  "version": "0.0.1",
+  "description": "Simple WebRTC client library designed for my own WebRTC service.",
+  "main": "index.js",
+  "keywords": [
+    "jeefo",
+    "je3f0o"
+  ],
+  "author": "je3f0o",
+  "license": "MIT",
+  "homepage": "https://github.com/je3f0o/jeefo-react-native-webrtc",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:je3f0o/jeefo-react-native-webrtc.git"
+  },
+  "dependencies": {
+    "@config-plugins/react-native-webrtc": "7.0.0",
+    "@jeefo/utils": "^0.0.18",
+    "react-native-webrtc": "111.0.4",
+    "websocket": "^1.0.34"
+  }
+}
